@@ -1,2 +1,3 @@
-# prime-file-sharing-qxki
-Automated issue comment bot repository
+# Prime File Sharing Qxki
+
+Automated issue comment bot repository.
